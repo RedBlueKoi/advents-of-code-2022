@@ -4,20 +4,21 @@ This repository contains my solutions for the [Advent of Code 2022](https://adve
 
 ## Usage
 
-For each day of the challenge, there is a folder with the day number. Each folder corresponds to a challange from the links below, and contains a `solution.ts` file with my solution.
+For each day of the challenge, there is a folder with the day number. Each folder corresponds to a challange from the links below, and contains a `s1.ts` and `s2.ts` files with my solutions for the first and second part. Second file is optional if the first solution was good enough to reuse it for the second part and required only minor changes.
 
 To run the solution, you can use the following command:
 
 ```bash
-deno run --allow-read solution.ts
+deno run --allow-read s1.ts
 ```
 
 To play with the solution, you can use the following command:
 
 ```bash
-deno run --allow-read --watch solution.ts
+deno run --allow-read --watch s1.ts
 ```
 
 ## Challenges
 
 - [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)
+- [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)
