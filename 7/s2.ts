@@ -16,7 +16,6 @@ interface Directory {
 }
 
 const path = ['/']
-const maxSize = 100000
 const totalSpace = 70000000
 const requiredSpace = 30000000
 
