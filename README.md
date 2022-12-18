@@ -28,3 +28,4 @@ deno run --allow-read --watch s1.ts
 - [Day 6: Turning Table](https://adventofcode.com/2022/day/6)
 - [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)
 - [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)
+- [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)
